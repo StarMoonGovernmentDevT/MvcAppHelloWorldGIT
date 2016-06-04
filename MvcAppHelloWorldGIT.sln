@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcAppHelloWorldGIT", "MvcAppHelloWorldGIT\MvcAppHelloWorldGIT.csproj", "{67E1912C-C721-4426-B2FA-1AED1D22AD8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcAppHelloWorldGIT.Tests", "MvcAppHelloWorldGIT.Tests\MvcAppHelloWorldGIT.Tests.csproj", "{B72E6D42-81F6-49D8-AB64-FBB282C6B897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67E1912C-C721-4426-B2FA-1AED1D22AD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E1912C-C721-4426-B2FA-1AED1D22AD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E1912C-C721-4426-B2FA-1AED1D22AD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E1912C-C721-4426-B2FA-1AED1D22AD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B72E6D42-81F6-49D8-AB64-FBB282C6B897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72E6D42-81F6-49D8-AB64-FBB282C6B897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72E6D42-81F6-49D8-AB64-FBB282C6B897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72E6D42-81F6-49D8-AB64-FBB282C6B897}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
