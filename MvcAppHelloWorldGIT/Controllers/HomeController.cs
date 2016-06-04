@@ -17,7 +17,7 @@ namespace MvcAppHelloWorldGIT.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your app description page.";
+            ViewBag.Message = "This is just First Times hands on in Github. I am trying to play around the the new Distributed Version Control System";
 
             return View();
         }
